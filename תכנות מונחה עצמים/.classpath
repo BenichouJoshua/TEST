@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Polymorphism_&amp;_Heritage"/>
+	<classpathentry kind="src" path="Abstract_&amp;_Interfaces"/>
+	<classpathentry kind="src" path="Exception_&amp;_Handling"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
